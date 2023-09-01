@@ -13,13 +13,18 @@
 
 Write-up file where is the analysis of ID_S1_EX2 is  [HERE](Write-up.pdf). 
 <p align="center" >
-   <img width="100%" src="media/Frame 1.png" alt=""/>
+   <img width="60%" src="media/Frame 1.png" alt=""/>
    <img width="100%" src="media/Frame 1 (2).png" alt=""/>
    <br>
-   <em>Result of PCL and range image </em>
+   <em>Result of point cloud visualization and range image </em>
 </p>
 
 ## 3. Convert sensor coordinates to BEV-map coordinates (ID_S2_EX1)
+<p align="center" >
+   <img width="60%" src="media/ID_S2_EX1.png" alt=""/> 
+   <br>
+   <em>BEV-map coordinates Frame 0 Waymo Dataset</em>
+</p>
 
 ## 4. Compute intensity layer of the BEV map (ID_S2_EX2)
 
