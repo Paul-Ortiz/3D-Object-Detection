@@ -26,19 +26,28 @@ Write-up file where is the analysis of ID_S1_EX2 is  [HERE](Write-up.pdf).
    <em>BEV-map coordinates Frame 0 from Waymo Dataset</em>
 </p>
 
-## 4. Compute intensity layer of the BEV map (ID_S2_EX2)
+## 4. Compute intensity layer of the BEV map (ID_S2_EX2) and Compute height layer of the BEV map (ID_S2_EX3)
 
-## 5. Compute height layer of the BEV map (ID_S2_EX3)
+<p align="center" >
+   <img width="50%" src="media/ID_S2_EX1_EX2_EX3.gif" alt=""/> 
+   <br>
+   <em>Result of range image</em>
+</p>
 
-## 6. Add a second model from a GitHub repo (ID_S3_EX1)
+## 5. Add a second model from a GitHub repo (ID_S3_EX1) and Extract 3D bounding boxes from model response (ID_S3_EX2)
+Obtain a second model fpn-resnet fron [ Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/SFA3D).
+| Frame 50 | Frame 51 |
+| ------------- | ------------- | 
+| <p align="center" > <img width="90%" src="media/ID_S3_EX2_frame 50.png" alt=""/>  <br> <em>BEV-map coordinates Frame 0 from Waymo Dataset</em> </p>  |  <p align="center" > <img width="90%" src="media/ID_S3_EX1_frame 51.png" alt=""/>  <br> <em>BEV-map coordinates Frame 0 from Waymo Dataset</em> </p> |
 
-## 7. Extract 3D bounding boxes from model response (ID_S3_EX2)
 
-## 8. Compute intersection-over-union between labels and detections (ID_S4_EX1)
 
-## 9. Compute false-negatives and false-positives (ID_S4_EX2)
 
-## 10. Compute precision and recall (ID_S4_EX3)
+## 6. Compute intersection-over-union between labels and detections (ID_S4_EX1)
+
+## 7. Compute false-negatives and false-positives (ID_S4_EX2)
+
+## 8. Compute precision and recall (ID_S4_EX3)
 
 | Pre-trained model from model zoo | Detectors Type | Speed (ms) | COCO mAP |
 | ------------- | ------------- | ------------- | ------------- | 
