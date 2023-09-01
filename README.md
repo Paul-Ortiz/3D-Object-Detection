@@ -3,7 +3,8 @@
    
 ## 1. Visualize range image channels (ID_S1_EX1)
 
- ![Result of range image](media/ID_S1_EX1.gif)
+ ![](media/ID_S1_EX1.gif)
+ Result of range image
  
 ## 2. Visualize lidar point-cloud (ID_S1_EX2)
 
