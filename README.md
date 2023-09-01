@@ -1,7 +1,25 @@
 # 3D-Object-Detection
 ## 1. Visualize range image channels (ID_S1_EX1)
    This project use an 3D object detection using lidars data from [Waymo Open Dataset](https://waymo.com/open/). The original project files are from the related [Github repository](https://github.com/udacity/nd013-c2-fusion-starter).
-   
+
+## 2. Visualize lidar point-cloud (ID_S1_EX2)
+
+## 3. Convert sensor coordinates to BEV-map coordinates (ID_S2_EX1)
+
+## 4. Compute intensity layer of the BEV map (ID_S2_EX2)
+
+## 5. Compute height layer of the BEV map (ID_S2_EX3)
+
+## 6. Add a second model from a GitHub repo (ID_S3_EX1)
+
+## 7. Extract 3D bounding boxes from model response (ID_S3_EX2)
+
+## 8. Compute intersection-over-union between labels and detections (ID_S4_EX1)
+
+## 9. Compute false-negatives and false-positives (ID_S4_EX2)
+
+## 10. Compute precision and recall (ID_S4_EX3)
+
 | Pre-trained model from model zoo | Detectors Type | Speed (ms) | COCO mAP |
 | ------------- | ------------- | ------------- | ------------- | 
 | EfficientDet D1 640x640  | One-stage | 54 | 38.1 |
