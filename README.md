@@ -45,10 +45,10 @@ Obtain a second model fpn-resnet fron [ Super Fast and Accurate 3D Object Detect
 
 ## 6. Compute intersection-over-union between labels and detections (ID_S4_EX1)
 
-<p align="center" > <img width="100%" src="media/ID_S4_EX_1.png" alt=""/> <br> <em>Results center_devs and IOU values</em> </p>
+<p align="center" > <img width="100%" src="media/ID_S4_EX1.png" alt=""/> <br> <em>Results center_devs and IOU values</em> </p>
 
 ## 7. Compute false-negatives and false-positives (ID_S4_EX2)
-
+<p align="center" > <img width="100%" src="media/ID_S4_EX2.png" alt=""/> <br> <em>Results of det_performance </em> </p>
 ## 8. Compute precision and recall (ID_S4_EX3)
 
 | Pre-trained model from model zoo | Detectors Type | Speed (ms) | COCO mAP |
