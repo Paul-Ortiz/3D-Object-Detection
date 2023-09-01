@@ -55,16 +55,13 @@ Obtain a second model fpn-resnet fron [ Super Fast and Accurate 3D Object Detect
 
 <p align="center" > <img width="60%" src="media/ID_S4_EX3_False.png" alt=""/> <br> <em>Results of Presicion and Recall from frames 50 to 150 </em> </p>
 
+The complete results obtained are shown in this [VIDEO](ID_S4_EX3_False.mp4).
+
 ### With `configs_det.use_labels_as_objects = True`:
 
 <p align="center" > <img width="60%" src="media/ID_S4_EX3_True.png" alt=""/> <br> <em>Results of Presicion and Recall from frames 50 to 150 </em> </p>
 
-## 5. Future training improvements
- **a. Increase the number of epochs:** It will lead to better training and convergence to smaller errors.
- 
- **b. Change the optimizer:** Use in all experiments the ADAM optimizer that is mentioned in the literature as the optimizer with the best results.
- 
- **c. Use other types of augmentation options:** Incorporate augmentations that improve the low lighting in the images.
- 
- **d. Change batch size:** Try increasing the batch size and decreasing the learning rate to get a better training result. 
+The complete results obtained are shown in this [VIDEO](ID_S4_EX3_True.mp4).
+
+
 
