@@ -10,11 +10,13 @@
 </p>
  
 ## 2. Visualize lidar point-cloud (ID_S1_EX2)
+
+Write-up file where is the analysis of ID_S1_EX2 is  [HERE](Write-up.pdf). 
 <p align="center" >
    <img width="100%" src="media/Frame 1.png" alt=""/>
    <img width="100%" src="media/Frame 1 (2).png" alt=""/>
    <br>
-   <em>Result of range image and PCL</em>
+   <em>Result of PCL and range image </em>
 </p>
 
 ## 3. Convert sensor coordinates to BEV-map coordinates (ID_S2_EX1)
