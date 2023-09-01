@@ -55,13 +55,13 @@ Obtain a second model fpn-resnet fron [ Super Fast and Accurate 3D Object Detect
 
 <p align="center" > <img width="60%" src="media/ID_S4_EX3_False.png" alt=""/> <br> <em>Results of Presicion and Recall from frames 50 to 150 </em> </p>
 
-The complete results obtained are shown in this [VIDEO](ID_S4_EX3_False.mp4).
+The complete results obtained are shown in this [VIDEO](media/ID_S4_EX3_False.mp4).
 
 ### With `configs_det.use_labels_as_objects = True`:
 
 <p align="center" > <img width="60%" src="media/ID_S4_EX3_True.png" alt=""/> <br> <em>Results of Presicion and Recall from frames 50 to 150 </em> </p>
 
-The complete results obtained are shown in this [VIDEO](ID_S4_EX3_True.mp4).
+The complete results obtained are shown in this [VIDEO](media/ID_S4_EX3_True.mp4).
 
 
 
