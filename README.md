@@ -38,7 +38,7 @@ Write-up file where is the analysis of ID_S1_EX2 is  [HERE](Write-up.pdf).
 Obtain a second model fpn-resnet fron [ Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/SFA3D).
 | Frame 50 | Frame 51 |
 | ------------- | ------------- | 
-| <p align="center" > <img width="90%" src="media/ID_S3_EX2_frame 50.png" alt=""/>  <br> <em>BEV-map coordinates Frame 0 from Waymo Dataset</em> </p>  |  <p align="center" > <img width="90%" src="media/ID_S3_EX1_frame 51.png" alt=""/>  <br> <em>BEV-map coordinates Frame 0 from Waymo Dataset</em> </p> |
+| <p align="center" > <img width="90%" src="media/ID_S3_EX2_frame 50.png" alt=""/>  <br> <em>3D bounding boxes added to the images</em> </p>  |  <p align="center" > <img width="90%" src="media/ID_S3_EX1_frame 51.png" alt=""/>  <br> <em>3D bounding boxes added to the images</em> </p> |
 
 
 
