@@ -1,6 +1,6 @@
 # 3D-Object-Detection
 ## 1. Visualize range image channels (ID_S1_EX1)
-   This project use an 3D object detection using lidars data from [Waymo Open Dataset](https://waymo.com/open/). The project original files are from the related [Github repository](https://github.com/udacity/nd013-c2-fusion-starter).
+   This project use an 3D object detection using lidars data from [Waymo Open Dataset](https://waymo.com/open/). The original project files are from the related [Github repository](https://github.com/udacity/nd013-c2-fusion-starter).
    
 | Pre-trained model from model zoo | Detectors Type | Speed (ms) | COCO mAP |
 | ------------- | ------------- | ------------- | ------------- | 
