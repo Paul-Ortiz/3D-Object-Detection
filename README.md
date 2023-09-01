@@ -38,12 +38,14 @@ Write-up file where is the analysis of ID_S1_EX2 is  [HERE](Write-up.pdf).
 Obtain a second model fpn-resnet fron [ Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/SFA3D).
 | Frame 50 | Frame 51 |
 | ------------- | ------------- | 
-| <p align="center" > <img width="90%" src="media/ID_S3_EX2_frame 50.png" alt=""/>  <br> <em>3D bounding boxes added to the images</em> </p>  |  <p align="center" > <img width="90%" src="media/ID_S3_EX1_frame 51.png" alt=""/>  <br> <em>3D bounding boxes added to the images</em> </p> |
+| <p align="center" > <img width="90%" src="media/ID_S3_EX2_frame 50.png" alt=""/>  <br> <em>3D bounding boxes added to the images</em> </p>  |  <p align="center" > <img width="90%" src="media/ID_S3_EX2_frame 51.png" alt=""/>  <br> <em>3D bounding boxes added to the images</em> </p> |
 
 
 
 
 ## 6. Compute intersection-over-union between labels and detections (ID_S4_EX1)
+
+<p align="center" > <img width="100%" src="media/ID_S4_EX_1.png" alt=""/> <br> <em>Results center_devs and IOU values</em> </p>
 
 ## 7. Compute false-negatives and false-positives (ID_S4_EX2)
 
